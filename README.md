@@ -172,8 +172,7 @@ Through this project, the following concepts were reinforced:
 
 **Huzaifa**
 Electrical Engineering Student
+
 National University of Sciences and Technology (NUST)
 
 
-* VLSI Design
-* ASIC Design
