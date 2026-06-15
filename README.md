@@ -171,6 +171,7 @@ Through this project, the following concepts were reinforced:
 ## Author
 
 **Huzaifa**
+
 Electrical Engineering Student
 
 National University of Sciences and Technology (NUST)
